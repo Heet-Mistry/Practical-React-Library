@@ -1,10 +1,10 @@
-
 import './App.css';
+import Icondemo from './Icondemo';
 
 function App() {
   return (
     <div>
-     Hello
+      <Icondemo />  {/* icons demo file  */}
     </div>
   );
 }
