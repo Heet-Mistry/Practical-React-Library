@@ -2,8 +2,8 @@ import './App.css';
 // import Icondemo from './Icondemo';
 // import Toastdemo from './Toastdemo'
 // import Modaldemo from './Modaldemo';
-import Tooltipdemo from './Tooltipdemo';
-
+// import Tooltipdemo from './Tooltipdemo';
+import Countupdemo from './Countupdemo'
 
 function App() {
   return (
@@ -11,7 +11,8 @@ function App() {
       {/* <Icondemo />  */}
       {/* <Toastdemo /> */}
       {/* <Modaldemo /> */}
-      <Tooltipdemo />
+      {/* <Tooltipdemo /> */}
+      <Countupdemo />
     </div>
   );
 }
