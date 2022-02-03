@@ -3,7 +3,8 @@ import './App.css';
 // import Toastdemo from './Toastdemo'
 // import Modaldemo from './Modaldemo';
 // import Tooltipdemo from './Tooltipdemo';
-import Countupdemo from './Countupdemo'
+// import Countupdemo from './Countupdemo'
+import Loading from './Loading';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       {/* <Toastdemo /> */}
       {/* <Modaldemo /> */}
       {/* <Tooltipdemo /> */}
-      <Countupdemo />
+      {/* <Countupdemo /> */}
+      <Loading />
     </div>
   );
 }
